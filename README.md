@@ -17,3 +17,12 @@ The target variable (Attrition) exhibited a severe class imbalance, which is typ
 # 5. Strategic Recommendations for HR Management Based on the combined data science insights, the company can deploy two immediate retention strategies:
    1. The Overtime Audit (XGBoost Lesson): Immediately review departments with high overtime rates (e.g., Laboratory Technicians, which also spiked in XGBoost            SHAP). Overtime fatigue is the fastest track to attrition.
    2. The Stagnation Review (Engineered Feature Lesson): Utilize the years_per_level metric to flag employees who have outgrown their current job level duration          without receiving a promotion, and enroll them in career-progression pathways.
+
+<img width="844" height="890" alt="image" src="https://github.com/user-attachments/assets/c44a96cf-0625-4aa6-9263-c71772006e6f" />
+<img width="816" height="740" alt="image" src="https://github.com/user-attachments/assets/ee5b55a2-a5dd-43a3-9921-67975951fb46" />
+<img width="824" height="890" alt="image" src="https://github.com/user-attachments/assets/cd3c92bd-3177-4818-aae8-29e32c7addca" />
+<img width="802" height="740" alt="image" src="https://github.com/user-attachments/assets/ebcf4e71-ffe3-4b4e-bcb8-8a64b8fd9a93" />
+
+
+
+
